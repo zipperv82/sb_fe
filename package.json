@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "clarifai": "^2.8.1",
+    "event-stream": "3.3.4",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-particles-js": "^2.3.0",
